@@ -21,7 +21,7 @@ public class loops {
 	public static void main(String[] args) {
 		for (int i = 0; i < 3; i++) {
 			System.out.printf("VALUE OF i is iterated: %d \n", i);
-			
+		
 		}
 	}
 }
